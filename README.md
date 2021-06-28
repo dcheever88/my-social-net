@@ -1,6 +1,9 @@
 # my-social-net
 (Social Network API)
 
+
+This is an API for a simple social media application that will allow users to write and share thoughts. Users can add other users as friends, and respond to each other's thoughts with replies.
+
 ## User Story
 As a social media startup
 I want an API for my social network that uses a NoSQL database
