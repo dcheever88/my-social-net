@@ -1,5 +1,5 @@
 const { Schema, model } = require('mongoose');
-require('mongoose-type-email');
+// require('mongoose-type-email');
 
 const UserSchema = new Schema({
     username: {
@@ -11,9 +11,9 @@ const UserSchema = new Schema({
     email: {
         type: String,
         required: true,
-        unique: true,
-        work: Mongoose.SchemaTypes.Email,
-        home: Mongoose.SchemaTypes.Email
+        unique: true
+        // work: mongoose.SchemaTypes.Email,
+        // home: mongoose.SchemaTypes.Email
     },
     thoughts: [
         {
