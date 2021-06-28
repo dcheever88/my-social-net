@@ -18,3 +18,10 @@ so that my website can handle large amounts of unstructured data
 * [This walkthrough video](https://drive.google.com/file/d/18U32iiDDDEVxai-ExqAzAKx9UkETIvrz/view) demonstrates the POST, GET, PUT, and DELETE methods for this API
 * Users and thoughts can be created, updated, and deleted
 * Reactions (friends and replies to thoughts) can be created and deleted
+
+## Technologies
+* Javascript
+* Node.js
+* Express.js
+* Mongoose
+* MongoDB
