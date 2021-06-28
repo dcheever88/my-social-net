@@ -28,3 +28,8 @@ so that my website can handle large amounts of unstructured data
 * Express.js
 * Mongoose
 * MongoDB
+
+
+## Author
+Danny Cheever is a software developer from Wisconsin. His github page is: https://github.com/dcheever88
+
