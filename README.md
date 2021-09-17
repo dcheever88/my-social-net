@@ -22,6 +22,9 @@ so that my website can handle large amounts of unstructured data
 * Users and thoughts can be created, updated, and deleted
 * Reactions (friends and replies to thoughts) can be created and deleted
 
+![Screen Shot 2021-09-16 at 8 07 41 PM](https://user-images.githubusercontent.com/78058224/133707850-93d818ee-7ca7-4d08-8361-4388ae0f113b.png)
+
+
 ## Technologies
 * Javascript
 * Node.js
